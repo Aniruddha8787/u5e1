@@ -1,0 +1,21 @@
+.addTask {
+  border: none;
+  width: 460px;
+  padding: 0%;
+  height: 40px;
+}
+.todoForm{
+  width: 500px;
+  border-bottom: 1px solid gray;
+}
+button{
+  border: none;
+  height: 40px;
+}
+::placeholder { 
+  color: gray;
+  opacity: 1;
+  font-size: large;
+  font-weight: bolder;
+  margin-left: 100px;
+}
